@@ -1,0 +1,26 @@
+{
+  "name": "ice",
+  "version": "1.0.0",
+  "description": "i",
+  "homepage": "https://github.com/ajnengineeringintl-webagency/Ice#readme",
+  "bugs": {
+    "url": "https://github.com/ajnengineeringintl-webagency/Ice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajnengineeringintl-webagency/Ice.git"
+  },
+  "license": "ISC",
+  "author": "ajnengineeringintl",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "expess": "^0.0.1-security",
+    "nodemon": "^3.1.11"
+  }
+}
